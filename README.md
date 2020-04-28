@@ -1840,6 +1840,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [ctxutil](https://github.com/posener/ctxutil) - A collection of utility functions for contexts.
 * [dbt](https://github.com/nikogura/dbt) - A framework for running self-updating signed binaries from a central, trusted repository.
 * [Death](https://github.com/vrecan/death) - Managing go application shutdown with signals.
+* [waitabit](https://github.com/heartwilltell/waitabit) - A tiny library for handling system interrupts.
 * [Deepcopier](https://github.com/ulule/deepcopier) - Simple struct copying for Go.
 * [delve](https://github.com/derekparker/delve) - Go debugger.
 * [dlog](https://github.com/kirillDanshin/dlog) - Compile-time controlled logger to make your release smaller without removing debug calls.
