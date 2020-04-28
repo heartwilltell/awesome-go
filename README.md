@@ -1840,7 +1840,6 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [ctxutil](https://github.com/posener/ctxutil) - A collection of utility functions for contexts.
 * [dbt](https://github.com/nikogura/dbt) - A framework for running self-updating signed binaries from a central, trusted repository.
 * [Death](https://github.com/vrecan/death) - Managing go application shutdown with signals.
-* [waitabit](https://github.com/heartwilltell/waitabit) - A tiny library for handling system interrupts.
 * [Deepcopier](https://github.com/ulule/deepcopier) - Simple struct copying for Go.
 * [delve](https://github.com/derekparker/delve) - Go debugger.
 * [dlog](https://github.com/kirillDanshin/dlog) - Compile-time controlled logger to make your release smaller without removing debug calls.
@@ -1952,6 +1951,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [UNIS](https://github.com/esemplastic/unis) - Common Architecture™ for String Utilities in Go.
 * [usql](https://github.com/knq/usql) - usql is a universal command-line interface for SQL databases.
 * [util](https://github.com/shomali11/util) - Collection of useful utility functions. (strings, concurrency, manipulations, ...).
+* [waitabit](https://github.com/heartwilltell/waitabit) - A tiny library for handling system interrupts.
 * [wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection.
 * [xferspdy](https://github.com/monmohan/xferspdy) - Xferspdy provides binary diff and patch library in golang.
 
